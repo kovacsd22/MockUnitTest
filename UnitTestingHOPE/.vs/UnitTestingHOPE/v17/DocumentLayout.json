@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8901B3BA-C471-4F60-9148-B6A252568AFF}|TestProject2\\TestProject2.csproj|c:\\users\\kd\u00E1niel\\source\\repos\\unittestinghope\\testproject2\\dataaccesslayer\\employeerepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8901B3BA-C471-4F60-9148-B6A252568AFF}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\dataaccesslayer\\employeerepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8901B3BA-C471-4F60-9148-B6A252568AFF}|TestProject2\\TestProject2.csproj|c:\\users\\kd\u00E1niel\\source\\repos\\unittestinghope\\testproject2\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8901B3BA-C471-4F60-9148-B6A252568AFF}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|c:\\users\\kd\u00E1niel\\source\\repos\\unittestinghope\\unittestinghope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|solutionrelative:unittestinghope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8901B3BA-C471-4F60-9148-B6A252568AFF}|TestProject2\\TestProject2.csproj|c:\\users\\kd\u00E1niel\\source\\repos\\unittestinghope\\testproject2\\dataaccesslayer\\contextmock\\dbcontextmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8901B3BA-C471-4F60-9148-B6A252568AFF}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\dataaccesslayer\\contextmock\\dbcontextmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8901B3BA-C471-4F60-9148-B6A252568AFF}|TestProject2\\TestProject2.csproj|c:\\users\\kd\u00E1niel\\source\\repos\\unittestinghope\\testproject2\\dataaccesslayer\\mocks\\iemployeerepositorymock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8901B3BA-C471-4F60-9148-B6A252568AFF}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\dataaccesslayer\\mocks\\iemployeerepositorymock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8901B3BA-C471-4F60-9148-B6A252568AFF}|TestProject2\\TestProject2.csproj|c:\\users\\kd\u00E1niel\\source\\repos\\unittestinghope\\testproject2\\testproject2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8901B3BA-C471-4F60-9148-B6A252568AFF}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\testproject2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|c:\\users\\kd\u00E1niel\\source\\repos\\unittestinghope\\unittestinghope\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|solutionrelative:unittestinghope\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|c:\\users\\kd\u00E1niel\\source\\repos\\unittestinghope\\unittestinghope\\dataaccesslayer\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|solutionrelative:unittestinghope\\dataaccesslayer\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|c:\\users\\kd\u00E1niel\\source\\repos\\unittestinghope\\unittestinghope\\dataaccesslayer\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|solutionrelative:unittestinghope\\dataaccesslayer\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|c:\\users\\kd\u00E1niel\\source\\repos\\unittestinghope\\unittestinghope\\dataaccesslayer\\interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|solutionrelative:unittestinghope\\dataaccesslayer\\interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|c:\\users\\kd\u00E1niel\\source\\repos\\unittestinghope\\unittestinghope\\dataaccesslayer\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|solutionrelative:unittestinghope\\dataaccesslayer\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|c:\\users\\kd\u00E1niel\\source\\repos\\unittestinghope\\unittestinghope\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|solutionrelative:unittestinghope\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|c:\\users\\kd\u00E1niel\\source\\repos\\unittestinghope\\unittestinghope\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|solutionrelative:unittestinghope\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|c:\\users\\kd\u00E1niel\\source\\repos\\unittestinghope\\unittestinghope\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|solutionrelative:unittestinghope\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|c:\\users\\kd\u00E1niel\\source\\repos\\unittestinghope\\unittestinghope\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F54EB2A7-F153-42F3-A1E3-D875A6415234}|UnitTestingHOPE\\UnitTestingHOPE.csproj|solutionrelative:unittestinghope\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\TestProject2\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "TestProject2\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\TestProject2\\GlobalUsings.cs",
+              "RelativeToolTip": "TestProject2\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:57:31.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\TestProject2\\DataAccessLayer\\EmployeeRepositoryTest.cs",
+              "RelativeDocumentMoniker": "TestProject2\\DataAccessLayer\\EmployeeRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\TestProject2\\DataAccessLayer\\EmployeeRepositoryTest.cs",
+              "RelativeToolTip": "TestProject2\\DataAccessLayer\\EmployeeRepositoryTest.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:57:14.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeRepositoryMock.cs",
+              "DocumentMoniker": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\TestProject2\\DataAccessLayer\\Mocks\\IEmployeeRepositoryMock.cs",
+              "RelativeDocumentMoniker": "TestProject2\\DataAccessLayer\\Mocks\\IEmployeeRepositoryMock.cs",
+              "ToolTip": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\TestProject2\\DataAccessLayer\\Mocks\\IEmployeeRepositoryMock.cs",
+              "RelativeToolTip": "TestProject2\\DataAccessLayer\\Mocks\\IEmployeeRepositoryMock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:56:18.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContextMock.cs",
+              "DocumentMoniker": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\TestProject2\\DataAccessLayer\\ContextMock\\DbContextMock.cs",
+              "RelativeDocumentMoniker": "TestProject2\\DataAccessLayer\\ContextMock\\DbContextMock.cs",
+              "ToolTip": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\TestProject2\\DataAccessLayer\\ContextMock\\DbContextMock.cs",
+              "RelativeToolTip": "TestProject2\\DataAccessLayer\\ContextMock\\DbContextMock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:55:52.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestProject2",
+              "DocumentMoniker": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\TestProject2\\TestProject2.csproj",
+              "RelativeDocumentMoniker": "TestProject2\\TestProject2.csproj",
+              "ToolTip": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\TestProject2\\TestProject2.csproj",
+              "RelativeToolTip": "TestProject2\\TestProject2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T08:55:14.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UnitTestingHOPE\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UnitTestingHOPE\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T08:51:26.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\DataAccessLayer\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "UnitTestingHOPE\\DataAccessLayer\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\DataAccessLayer\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "UnitTestingHOPE\\DataAccessLayer\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:50:35.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\DataAccessLayer\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "UnitTestingHOPE\\DataAccessLayer\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\DataAccessLayer\\Models\\Employee.cs",
+              "RelativeToolTip": "UnitTestingHOPE\\DataAccessLayer\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:50:24.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\DataAccessLayer\\Interface\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "UnitTestingHOPE\\DataAccessLayer\\Interface\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\DataAccessLayer\\Interface\\IEmployeeRepository.cs",
+              "RelativeToolTip": "UnitTestingHOPE\\DataAccessLayer\\Interface\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:50:16.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\DataAccessLayer\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "UnitTestingHOPE\\DataAccessLayer\\Context\\DataContext.cs",
+              "ToolTip": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\DataAccessLayer\\Context\\DataContext.cs",
+              "RelativeToolTip": "UnitTestingHOPE\\DataAccessLayer\\Context\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:49:46.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "UnitTestingHOPE\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "UnitTestingHOPE\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:48:59.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "UnitTestingHOPE\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "UnitTestingHOPE\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:48:01.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "UnitTestingHOPE\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\WeatherForecast.cs",
+              "RelativeToolTip": "UnitTestingHOPE\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:44:52.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\appsettings.json",
+              "RelativeDocumentMoniker": "UnitTestingHOPE\\appsettings.json",
+              "ToolTip": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\appsettings.json",
+              "RelativeToolTip": "UnitTestingHOPE\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T08:40:36.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\Program.cs",
+              "RelativeDocumentMoniker": "UnitTestingHOPE\\Program.cs",
+              "ToolTip": "C:\\Users\\kd\u00E1niel\\source\\repos\\UnitTestingHOPE\\UnitTestingHOPE\\Program.cs",
+              "RelativeToolTip": "UnitTestingHOPE\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:40:35.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
